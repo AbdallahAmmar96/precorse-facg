@@ -27,23 +27,20 @@ intro to ES6
    # HTML5 
   * HTML5 is the latest version of Hypertext Markup Language that adds a handful of new HTML elements we can use to better define our page’s content for search engines.
  * HTML5 is the fifth version of HTML. Many elements are removed or modified from HTML5.
-  ##### removed tags : 
-```
-   <frameset>
-   <frame> 
-   <noframes>
-  ```
- ##### modified tags :
- ```
-   <applet> Changed to <object> 
-   <acronym> Changed to <abbr> 
-   <dir> Changed to <ul>
-```
+  #### removed tags : 
+   ```<frameset>```
+   ```<frame> ```
+  ``` <noframes>```
+ #### modified tags :
+ 
+   ```<applet>``` Changed to ```<object> ```
+   ```<acronym>``` Changed to ```<abbr>``` 
+   ```<dir>``` Changed to ```<ul>```
 ### What HTML5 do ?
 * It supports audio and video controls with the use of ```<audio>``` and ```<video>``` tags.
 * Allows JavaScript to run in the background. This is possible due to the JS Web worker API in HTML5.
-* Vector graphics is additionally an integral a part of HTML5 like SVG and ```<canvas>```.
-example on ```<canvas>```  :
+* Vector graphics is additionally an integral a part of HTML5 like SVG and ```<canvas>```. __
+example on ```<canvas>```  : __
 https://codepen.io/Tibixx/pen/eXOyXg
 https://codepen.io/EntropyReversed/pen/ZPEpWg 
 * HTML5 language is more mobile-friendly.
