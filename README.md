@@ -38,7 +38,6 @@ intro to ES6
   * ```<dir>``` Changed to ```<ul>```
 ### What HTML5 do ?
 * It supports audio and video controls with the use of ```<audio>``` and ```<video>``` tags.
-* Allows JavaScript to run in the background. This is possible due to the JS Web worker API in HTML5.
 * Vector graphics is additionally an integral a part of HTML5 like SVG and ```<canvas>```. \
 example on ```<canvas>```  : \
 https://codepen.io/Tibixx/pen/eXOyXg \
