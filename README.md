@@ -60,7 +60,7 @@ https://codepen.io/EntropyReversed/pen/ZPEpWg
 Semantic Elements refer to HTML elements that have a specific meaning. For example ```<h1>``` is a semantic element. It tells google bots that the content within the tag is the most significant header contained in the HTML document. ```<div>``` on the other hand, is a non-semantic element as it only indicates a division in the HTML document and provide no information on what goes before, after or within the tag.
 
 #### The Fight Against Divitis!!!
-###### Instead of div’s everywhere with ID’s and classes, use semantic HTML5 tags. but why ??
+##### Instead of div’s everywhere with ID’s and classes, use semantic HTML5 tags. but why ??
 * accessibility - help assistive technologies read and interpret your webpage.
 * searchability - help computers make sense of your content.
 * interoperability - help other programmers understand the structure of your webpage.
