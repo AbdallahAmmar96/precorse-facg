@@ -52,9 +52,9 @@ https://codepen.io/EntropyReversed/pen/ZPEpWg
 * New element for web structure like nav, header, footer etc.
 
 # Semantics
-###### Semantics is the study of the meanings of words and phrases in a language.
-###### Semantic elements = elements with a meaning.
-###### a semantic element clearly describes its meaning to both the browser and developer.
+##### Semantics is the study of the meanings of words and phrases in a language.
+##### Semantic elements = elements with a meaning.
+##### a semantic element clearly describes its meaning to both the browser and developer.
 
 ### What’s a Semantic Element ?
 Semantic Elements refer to HTML elements that have a specific meaning. For example ```<h1>``` is a semantic element. It tells google bots that the content within the tag is the most significant header contained in the HTML document. ```<div>``` on the other hand, is a non-semantic element as it only indicates a division in the HTML document and provide no information on what goes before, after or within the tag.
