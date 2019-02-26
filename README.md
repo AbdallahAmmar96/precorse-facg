@@ -39,9 +39,9 @@ intro to ES6
 ### What HTML5 do ?
 * It supports audio and video controls with the use of ```<audio>``` and ```<video>``` tags.
 * Allows JavaScript to run in the background. This is possible due to the JS Web worker API in HTML5.
-* Vector graphics is additionally an integral a part of HTML5 like SVG and ```<canvas>```. 
-example on ```<canvas>```  : 
-https://codepen.io/Tibixx/pen/eXOyXg
+* Vector graphics is additionally an integral a part of HTML5 like SVG and ```<canvas>```. \
+example on ```<canvas>```  : \
+https://codepen.io/Tibixx/pen/eXOyXg \
 https://codepen.io/EntropyReversed/pen/ZPEpWg 
 * HTML5 language is more mobile-friendly.
 * Doctype declaration is quite simple and easy.
@@ -49,9 +49,9 @@ https://codepen.io/EntropyReversed/pen/ZPEpWg
 * New element for web structure like nav, header, footer etc.
 
 # Semantics
-##### Semantics is the study of the meanings of words and phrases in a language.
-##### Semantic elements = elements with a meaning.
-##### a semantic element clearly describes its meaning to both the browser and developer.
+#### Semantics is the study of the meanings of words and phrases in a language.
+#### Semantic elements = elements with a meaning.
+#### a semantic element clearly describes its meaning to both the browser and developer.
 
 ### What’s a Semantic Element ?
 Semantic Elements refer to HTML elements that have a specific meaning. For example ```<h1>``` is a semantic element. It tells google bots that the content within the tag is the most significant header contained in the HTML document. ```<div>``` on the other hand, is a non-semantic element as it only indicates a division in the HTML document and provide no information on what goes before, after or within the tag.
