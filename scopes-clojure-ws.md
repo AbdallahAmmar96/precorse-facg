@@ -49,7 +49,7 @@ function four() {
   }
 
   alert(a); /* will cause an error because a can only be accessed within it's block of declaration, 
-              (a isn't defined/delared in function four scope)*/
+              (a isn't declared in function four scope)*/
 }
 ```
 
