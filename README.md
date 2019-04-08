@@ -15,19 +15,19 @@
 # Schedule
 
 - Day 1
-  -  12:00-13:00--[Sematic HTML](https://github.com/AbdallahAmmar96/precorse-facg/blob/master/Semantic-html.md)
-  - 13:00-13:45--[Box-Model](https://github.com/AbdallahAmmar96/precorse-facg/blob/master/Box-Model.md) 
+  -  12:00-13:00 -- [Sematic HTML](https://github.com/AbdallahAmmar96/precorse-facg/blob/master/Semantic-html.md)
+  - 13:00-13:45 -- [Box-Model](https://github.com/AbdallahAmmar96/precorse-facg/blob/master/Box-Model.md) 
   - << 15min Break >>
-  -  14:00-15:00--[BEM](https://github.com/AbdallahAmmar96/precorse-facg/blob/master/BEM.md)
+  -  14:00-15:00 -- [BEM](https://github.com/AbdallahAmmar96/precorse-facg/blob/master/BEM.md)
   
 - Day 2
-  - 12:00-13:15--[Specification](https://github.com/AbdallahAmmar96/precorse-facg/blob/master/CSS%20Specificity.md) in css 
+  - 12:00-13:15 -- [Specification](https://github.com/AbdallahAmmar96/precorse-facg/blob/master/CSS%20Specificity.md) in css 
   - << 15min Break >>
-  -  13:30-15:00--[Flex-Box](https://github.com/AbdallahAmmar96/precorse-facg/blob/master/Flex-Box.md)
+  -  13:30-15:00 -- [Flex-Box](https://github.com/AbdallahAmmar96/precorse-facg/blob/master/Flex-Box.md)
 
 - Day 3
-  - 12:00-13:30--[First-Class](https://github.com/AbdallahAmmar96/precorse-facg/blob/master/JavaScript-functions-ws.md) functions 
-  - 13:00-15:00--[JS Scopes](https://github.com/AbdallahAmmar96/precorse-facg/blob/master/scopes-clojure-ws.md) 
+  - 12:00-13:30 -- [First-Class](https://github.com/AbdallahAmmar96/precorse-facg/blob/master/JavaScript-functions-ws.md) functions 
+  - 13:00-15:00 -- [JS Scopes](https://github.com/AbdallahAmmar96/precorse-facg/blob/master/scopes-clojure-ws.md) 
   
 ## Resources
 - https://developer.mozilla.org/en-US/docs/Glossary/Semantics
