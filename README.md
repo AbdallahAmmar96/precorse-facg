@@ -1,12 +1,12 @@
 # precorse-facg
 
-Introduction to HTML5
-Semantic HTML
-Tags attributes
-CSS selectors
-BEM
-Flex-Box
-e.g. facebook page
+Introduction to HTML5   
+Semantic HTML   
+Tags attributes   
+CSS selectors   
+BEM   
+Flex-Box   
+e.g. facebook page   
 
 
 differences between var, let and const 
